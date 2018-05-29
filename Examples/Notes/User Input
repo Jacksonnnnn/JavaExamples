@@ -1,0 +1,31 @@
+1. Import java.util.Scanner;
+
+2. Add scanner variable
+	-> Scanner scanner = new Scanner(System.in);
+
+3. Ask something for the user
+	-> How old are you?
+	
+4. Enter your method type
+	-> double age = scanner.nextDouble();
+
+5. Use the variable any way you want
+	-> 	void dogYears(age) {
+			//Since 1 year for is is 7 years for dogs, your dog age will be calculated!
+			int dogAge;
+			dogAge = age * 7;
+		
+			System.out.println("Your age in dog years is " + dogAge + " years old.");
+		}
+		dogYears(age);
+		
+		
+METHOD TYPES:
+      public String next()		it returns the next token from the scanner.
+  public String nextLine()		it moves the scanner position to the next line and returns the value as a string.
+    public byte nextByte()		it scans the next token as a byte.
+  public short nextShort()		it scans the next token as a short value.
+      public int nextInt()		it scans the next token as an int value.
+    public long nextLong()		it scans the next token as a long value.
+  public float nextFloat()		it scans the next token as a float value.
+public double nextDouble()		it scans the next token as a double value.
