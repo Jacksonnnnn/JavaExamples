@@ -1,0 +1,10 @@
+\ddd    - Octal Character (ddd)
+\uxxxx  - Hexadecimal Unicode Character (xxxx)
+\'      - Single Quote
+\"      - Double Quote
+\\      - Backslash
+\r      - Carriage return
+\n      - New Line
+\f      - Form Feed
+\t      - Tab
+\b      - Backspace

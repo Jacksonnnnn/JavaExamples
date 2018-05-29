@@ -1,0 +1,72 @@
+()  - Parentheses - Used to contain parameters in a method definition (Also used for expressions)
+{}  - Braces      - Used to contain the values of automatically initialized arrays.
+[]  - Brackets    - Used to declare array types.
+;   - Semicolon   - Terminates statements
+,   - Comma       - Separates consecutive identifiers in a variable declaration.
+.   - Period      - Used to separate package names from sub-packages and classes.
+::  - Colons      - Used to create a method or constructor reference.
+... - Ellipsis    - Used to create a method or constructor reference.
+@   - Ampersand   - Begins an annotation.
+
+Java Keywords:
+abstract
+assert
+boolean
+break
+byte
+case
+catch
+char
+classes
+const
+continue
+default
+do
+double
+else
+enum
+exports 
+extends
+final
+finally
+float
+for
+goto
+if
+implements
+import 
+instanceof 
+int 
+interface 
+long 
+module 
+native 
+new 
+open 
+opens 
+package 
+private 
+protected 
+provides 
+public 
+requires 
+return 
+short 
+static 
+strictfp 
+super 
+switch 
+synchronized 
+this 
+throw 
+throws 
+to
+transient 
+transitive 
+try 
+uses 
+void 
+volatile 
+while 
+with 
+_ 
